@@ -1,0 +1,3 @@
+<?php
+// Schweigen ist Gold.
+?>
